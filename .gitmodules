@@ -1,0 +1,3 @@
+[submodule "Publication-DCDC-SSCL"]
+	path = Publication-DCDC-SSCL
+	url = git@github.com:andylithia/Publication-DCDC-SSCL.git
